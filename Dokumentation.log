@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  2 OCT 2022 17:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  2 OCT 2022 17:28
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1926,7 +1926,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  (./content/Dokumentation.tex
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 1.
+Package pdftex.def Info: ./figures/background.png  used on input line 3.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -1966,7 +1966,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 \l__nicematrix_final_j_int=\count599
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 34.
+Package pdftex.def Info: ./figures/background.png  used on input line 36.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -1980,17 +1980,17 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 ]
 LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 
-55.
-LaTeX Font Info:    No file OMScmtt.fd. on input line 55.
+57.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 57.
 
 
 LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 55.
+(Font)              for symbol `textbraceleft' on input line 57.
 
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 55.
+Package pdftex.def Info: ./figures/background.png  used on input line 57.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2005,7 +2005,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 76.
+Package pdftex.def Info: ./figures/background.png  used on input line 78.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2020,7 +2020,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 78.
+Package pdftex.def Info: ./figures/background.png  used on input line 80.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2046,13 +2046,13 @@ Overfull \hbox (3.56903pt too wide) in paragraph at lines 10--10
  []
 
 )
-Overfull \hbox (30.00002pt too wide) in paragraph at lines 4--92
+Overfull \hbox (30.00002pt too wide) in paragraph at lines 4--94
 []$[][][][][]$[][][][]  
  []
 
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 92.
+Package pdftex.def Info: ./figures/background.png  used on input line 94.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2068,13 +2068,13 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 \openout4 = `Dokumentation.vrb'.
 
  (./Dokumentation.vrb)
-Overfull \hbox (30.00002pt too wide) in paragraph at lines 4--107
+Overfull \hbox (30.00002pt too wide) in paragraph at lines 4--109
 []$[][][][][]$[][][][]  
  []
 
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 107.
+Package pdftex.def Info: ./figures/background.png  used on input line 109.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2095,13 +2095,13 @@ Overfull \hbox (3.0968pt too wide) in paragraph at lines 11--11
  []
 
 )
-Overfull \hbox (30.00002pt too wide) in paragraph at lines 4--123
+Overfull \hbox (30.00002pt too wide) in paragraph at lines 4--125
 []$[][][][][]$[][][][]  
  []
 
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 123.
+Package pdftex.def Info: ./figures/background.png  used on input line 125.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2127,13 +2127,13 @@ Overfull \hbox (5.56812pt too wide) in paragraph at lines 11--11
  []
 
 )
-Overfull \hbox (30.00002pt too wide) in paragraph at lines 4--138
+Overfull \hbox (30.00002pt too wide) in paragraph at lines 4--140
 []$[][][][][]$[][][][]  
  []
 
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 138.
+Package pdftex.def Info: ./figures/background.png  used on input line 140.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2148,7 +2148,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 144.
+Package pdftex.def Info: ./figures/background.png  used on input line 146.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2170,7 +2170,7 @@ Package pdfrender Info: New color stack `LineWidth' = 3 on input line 3.
 )
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 157.
+Package pdftex.def Info: ./figures/background.png  used on input line 159.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2188,7 +2188,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  (./Dokumentation.vrb)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 167.
+Package pdftex.def Info: ./figures/background.png  used on input line 169.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2206,7 +2206,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  (./Dokumentation.vrb)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 180.
+Package pdftex.def Info: ./figures/background.png  used on input line 182.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2221,7 +2221,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 182.
+Package pdftex.def Info: ./figures/background.png  used on input line 184.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2239,7 +2239,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  (./Dokumentation.17.vrb)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 193.
+Package pdftex.def Info: ./figures/background.png  used on input line 195.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2257,7 +2257,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  (./Dokumentation.vrb)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 206.
+Package pdftex.def Info: ./figures/background.png  used on input line 208.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2272,7 +2272,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 208.
+Package pdftex.def Info: ./figures/background.png  used on input line 210.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2285,13 +2285,13 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [19
 
 ]
-Overfull \hbox (29.99998pt too wide) in paragraph at lines 226--226
+Overfull \hbox (29.99998pt too wide) in paragraph at lines 228--228
 []$[][][][][]$[][][][]  
  []
 
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 226.
+Package pdftex.def Info: ./figures/background.png  used on input line 228.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2306,7 +2306,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 228.
+Package pdftex.def Info: ./figures/background.png  used on input line 230.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2324,7 +2324,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  (./Dokumentation.22.vrb)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 242.
+Package pdftex.def Info: ./figures/background.png  used on input line 244.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2342,7 +2342,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  (./Dokumentation.vrb)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 252.
+Package pdftex.def Info: ./figures/background.png  used on input line 254.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2360,7 +2360,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  (./Dokumentation.vrb)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 263.
+Package pdftex.def Info: ./figures/background.png  used on input line 265.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2375,7 +2375,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 265.
+Package pdftex.def Info: ./figures/background.png  used on input line 267.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2388,13 +2388,13 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [25
 
 ]
-Overfull \hbox (29.99998pt too wide) in paragraph at lines 285--285
+Overfull \hbox (29.99998pt too wide) in paragraph at lines 287--287
 []$[][][][][]$[][][][]  
  []
 
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 285.
+Package pdftex.def Info: ./figures/background.png  used on input line 287.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
