@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  6 OCT 2022 03:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  6 OCT 2022 15:51
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1871,19 +1871,19 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 17--17
 [][][][]  
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
 
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 23.
+ut line 24.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
@@ -1892,15 +1892,11 @@ thkerncmss.
 <./figures/background.png, id=61, 140.02313pt x 810.77907pt>
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 23.
+Package pdftex.def Info: ./figures/background.png  used on input line 24.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
 
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
 
 [1
 
@@ -1908,7 +1904,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ackground.png>] (./Dokumentation.toc)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 30.
+Package pdftex.def Info: ./figures/background.png  used on input line 32.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2522,10 +2518,10 @@ Package logreq Info: Writing requests to 'Dokumentation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52950 strings out of 477529
- 1128000 string characters out of 5827605
- 1898595 words of memory out of 5000000
- 70924 multiletter control sequences out of 15000+600000
+ 52952 strings out of 477529
+ 1128054 string characters out of 5827605
+ 1898596 words of memory out of 5000000
+ 70926 multiletter control sequences out of 15000+600000
  481968 words of font info for 75 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  133i,18n,125p,953b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2542,7 +2538,7 @@ public/amsfonts/cm/cmsy8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmtt10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmtt8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/s
 ymbols/msam10.pfb>
-Output written on Dokumentation.pdf (31 pages, 253805 bytes).
+Output written on Dokumentation.pdf (31 pages, 253672 bytes).
 PDF statistics:
  541 PDF objects out of 1000 (max. 8388607)
  456 compressed objects within 5 object streams
