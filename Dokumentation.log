@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  13 OCT 2022 21:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  13 OCT 2022 22:34
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1661,14 +1661,7 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
  (./Dokumentation.aux
-(./content/Dokumentation.aux
-
-LaTeX Warning: Label `kommandozeilenargumente<1>' multiply defined.
-
-
-LaTeX Warning: Label `kommandozeilenargumente' multiply defined.
-
-))
+(./content/Dokumentation.aux))
 \openout1 = `Dokumentation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
@@ -2073,21 +2066,9 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [9
 
 ]
-\openout4 = `Dokumentation.10.vrb'.
+\openout4 = `Dokumentation.vrb'.
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{kommandozeile
-nargumente<1>}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.119 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{kommandozeile
-nargumente}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.119 \end{frame}
-                  (./Dokumentation.10.vrb
+ (./Dokumentation.vrb
 Overfull \hbox (3.0968pt too wide) in paragraph at lines 9--9
  []\OT1/cmss/m/n/8 most[]used: 
  []
@@ -2548,9 +2529,6 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `Dokumentation.out' has not changed.
 (rerunfilecheck)             Checksum: 9680232581611B17DDC4B6E95BCC8415;949.
 Package logreq Info: Writing requests to 'Dokumentation.run.xml'.
@@ -2558,10 +2536,10 @@ Package logreq Info: Writing requests to 'Dokumentation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52994 strings out of 477529
- 1128833 string characters out of 5827605
- 1889930 words of memory out of 5000000
- 70963 multiletter control sequences out of 15000+600000
+ 52960 strings out of 477529
+ 1128157 string characters out of 5827605
+ 1898573 words of memory out of 5000000
+ 70930 multiletter control sequences out of 15000+600000
  481968 words of font info for 75 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  133i,18n,125p,953b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2578,7 +2556,7 @@ public/amsfonts/cm/cmsy8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmtt10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmtt8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/s
 ymbols/msam10.pfb>
-Output written on Dokumentation.pdf (32 pages, 254061 bytes).
+Output written on Dokumentation.pdf (32 pages, 254345 bytes).
 PDF statistics:
  554 PDF objects out of 1000 (max. 8388607)
  468 compressed objects within 5 object streams
